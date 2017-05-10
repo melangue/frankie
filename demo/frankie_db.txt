@@ -1,0 +1,665 @@
+#post-date#20170510#
+#title#Rocky#
+#year#1976#
+#director#John G. Avildsen#
+#cast#Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers#
+#plot#Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.#
+#rated#PG#
+#genre#Drama, Sport#
+#run-time#120 min#
+#score-imdb#8.1#
+#score-rotten#93%#
+#score-metacritic#69#
+#score-average#82#
+#link-imdb#http://www.imdb.com/title/tt0075148#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Rocky+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Rocky+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=V1LIfIFPb7M#
+~~
+#post-date#20170510#
+#title#The Terminator#
+#year#1984#
+#director#James Cameron#
+#cast#Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield#
+#plot#A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.#
+#rated#R#
+#genre#Action, Sci-Fi#
+#run-time#107 min#
+#score-imdb#8.0#
+#score-rotten#100%#
+#score-metacritic#83#
+#score-average#87#
+#link-imdb#http://www.imdb.com/title/tt0088247#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Terminator+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Terminator+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=n87n9YELjB4#
+~~
+#post-date#20170510#
+#title#Donnie Darko#
+#year#2001#
+#director#Richard Kelly#
+#cast#Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase#
+#plot#A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.#
+#rated#R#
+#genre#Drama, Sci-Fi, Thriller#
+#run-time#113 min#
+#score-imdb#8.1#
+#score-rotten#86%#
+#score-metacritic#88#
+#score-average#86#
+#link-imdb#http://www.imdb.com/title/tt0246578#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Donnie%20Darko+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Donnie%20Darko+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZWQyN2ZkODktMTBkNS00OTBjLWJhOGYtNGU4YWVkNTY0ZDZkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=ZZyBaFYFySk#
+~~
+#post-date#20170510#
+#title#The Truman Show#
+#year#1998#
+#director#Peter Weir#
+#cast#Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone#
+#plot#An insurance salesman/adjuster discovers his entire life is actually a television show.#
+#rated#PG#
+#genre#Comedy, Drama, Sci-Fi#
+#run-time#103 min#
+#score-imdb#8.1#
+#score-rotten#94%#
+#score-metacritic#90#
+#score-average#88#
+#link-imdb#http://www.imdb.com/title/tt0120382#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Truman%20Show+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Truman%20Show+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=LFTz6_lqWhg#
+~~
+#post-date#20170510#
+#title#Mad Max: Fury Road#
+#year#2015#
+#director#George Miller#
+#cast#Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne#
+#plot#A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.#
+#rated#R#
+#genre#Action, Adventure, Sci-Fi#
+#run-time#120 min#
+#score-imdb#8.1#
+#score-rotten#97%#
+#score-metacritic#90#
+#score-average#86#
+#link-imdb#http://www.imdb.com/title/tt1392190#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Mad%20Max:%20Fury%20Road+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Mad%20Max:%20Fury%20Road+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=vRtDIIjzjeU#
+~~
+#post-date#20170510#
+#title#Kill Bill: Vol. 1#
+#year#2003#
+#director#Quentin Tarantino#
+#cast#Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah#
+#plot#The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.#
+#rated#R#
+#genre#Action, Crime, Thriller#
+#run-time#111 min#
+#score-imdb#8.1#
+#score-rotten#85%#
+#score-metacritic#69#
+#score-average#78#
+#link-imdb#http://www.imdb.com/title/tt0266697#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Kill%20Bill:%20Vol.%201+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Kill%20Bill:%20Vol.%201+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDg1Mzg4M15BMl5BanBnXkFtZTYwMDExOTc3._V1_SX300.jpg#
+#trailer-link#https://youtube.com/watch?v=7kSuas6mRpk#
+~~
+#post-date#20170510#
+#title#The Big Lebowski#
+#year#1998#
+#director#Joel Coen, Ethan Coen#
+#cast#Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi#
+#plot#"The Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.#
+#rated#R#
+#genre#Comedy, Crime, Mystery#
+#run-time#117 min#
+#score-imdb#8.2#
+#score-rotten#81%#
+#score-metacritic#69#
+#score-average#77#
+#link-imdb#http://www.imdb.com/title/tt0118715#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Big%20Lebowski+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Big%20Lebowski+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=cd-go0oBF4Y#
+~~
+#post-date#20170510#
+#title#Gran Torino#
+#year#2008#
+#director#Clint Eastwood#
+#cast#Clint Eastwood, Christopher Carley, Bee Vang, Ahney Her#
+#plot#Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.#
+#rated#R#
+#genre#Drama#
+#run-time#116 min#
+#score-imdb#8.2#
+#score-rotten#79%#
+#score-metacritic#72#
+#score-average#77#
+#link-imdb#http://www.imdb.com/title/tt1205489#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Gran%20Torino+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Gran%20Torino+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTczMTAxMl5BMl5BanBnXkFtZTcwOTc1ODE0Mg@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=RMhbr2XQblk#
+~~
+#post-date#20170510#
+#title#Lock, Stock and Two Smoking Barrels#
+#year#1998#
+#director#Guy Ritchie#
+#cast#Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham#
+#plot#A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.#
+#rated#R#
+#genre#Comedy, Crime#
+#run-time#107 min#
+#score-imdb#8.2#
+#score-rotten#76%#
+#score-metacritic#66#
+#score-average#77#
+#link-imdb#http://www.imdb.com/title/tt0120735#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Lock,%20Stock%20and%20Two%20Smoking%20Barrels+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Lock,%20Stock%20and%20Two%20Smoking%20Barrels+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=Kr43ETpnsjA#
+~~
+#post-date#20170510#
+#title#Blade Runner#
+#year#1982#
+#director#Ridley Scott#
+#cast#Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos#
+#plot#A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.#
+#rated#R#
+#genre#Sci-Fi, Thriller#
+#run-time#117 min#
+#score-imdb#8.2#
+#score-rotten#89%#
+#score-metacritic#89#
+#score-average#84#
+#link-imdb#http://www.imdb.com/title/tt0083658#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Blade%20Runner+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Blade%20Runner+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=eogpIG53Cis#
+~~
+#post-date#20170510#
+#title#Scarface#
+#year#1983#
+#director#Brian De Palma#
+#cast#Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio#
+#plot#In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.#
+#rated#R#
+#genre#Crime, Drama#
+#run-time#170 min#
+#score-imdb#8.3#
+#score-rotten#82%#
+#score-metacritic#65#
+#score-average#79#
+#link-imdb#http://www.imdb.com/title/tt0086250#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Scarface+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Scarface+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=4h9Itj959Mc#
+~~
+#post-date#20170510#
+#title#L.A. Confidential#
+#year#1997#
+#director#Curtis Hanson#
+#cast#Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell#
+#plot#As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.#
+#rated#R#
+#genre#Crime, Drama, Mystery#
+#run-time#138 min#
+#score-imdb#8.3#
+#score-rotten#99%#
+#score-metacritic#90#
+#score-average#89#
+#link-imdb#http://www.imdb.com/title/tt0119488#
+#link-rotten#https://duckduckgo.com/?q=!ducky+L.A.%20Confidential+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+L.A.%20Confidential+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=6sOXrY5yV4g#
+~~
+#post-date#20170510#
+#title#Full Metal Jacket#
+#year#1987#
+#director#Stanley Kubrick#
+#cast#Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey#
+#plot#A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.#
+#rated#R#
+#genre#Drama, War#
+#run-time#116 min#
+#score-imdb#8.3#
+#score-rotten#95%#
+#score-metacritic#78#
+#score-average#86#
+#link-imdb#http://www.imdb.com/title/tt0093058#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Full%20Metal%20Jacket+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Full%20Metal%20Jacket+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=uniOsA816QU#
+~~
+#post-date#20170510#
+#title#Taxi Driver#
+#year#1976#
+#director#Martin Scorsese#
+#cast#Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito#
+#plot#A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.#
+#rated#R#
+#genre#Crime, Drama#
+#run-time#113 min#
+#score-imdb#8.3#
+#score-rotten#99%#
+#score-metacritic#93#
+#score-average#89#
+#link-imdb#http://www.imdb.com/title/tt0075314#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Taxi%20Driver+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Taxi%20Driver+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=cujiHDeqnHY#
+~~
+#post-date#20170510#
+#title#A Clockwork Orange#
+#year#1971#
+#director#Stanley Kubrick#
+#cast#Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke#
+#plot#In future Britain, Alex DeLarge, a charismatic and psycopath delinquent, who likes to practice crimes and ultra-violence with his gang, is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.#
+#rated#R#
+#genre#Crime, Drama, Sci-Fi#
+#run-time#136 min#
+#score-imdb#8.3#
+#score-rotten#90%#
+#score-metacritic#78#
+#score-average#83#
+#link-imdb#http://www.imdb.com/title/tt0066921#
+#link-rotten#https://duckduckgo.com/?q=!ducky+A%20Clockwork%20Orange+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+A%20Clockwork%20Orange+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=xHFPi_3kc1U#
+~~
+#post-date#20170510#
+#title#Reservoir Dogs#
+#year#1992#
+#director#Quentin Tarantino#
+#cast#Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn#
+#plot#After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.#
+#rated#R#
+#genre#Crime, Drama, Thriller#
+#run-time#99 min#
+#score-imdb#8.3#
+#score-rotten#90%#
+#score-metacritic#78#
+#score-average#82#
+#link-imdb#http://www.imdb.com/title/tt0105236#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Reservoir%20Dogs+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Reservoir%20Dogs+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=vayksn4Y93A#
+~~
+#post-date#20170510#
+#title#Oldboy#
+#year#2003#
+#director#Chan-wook Park#
+#cast#Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji#
+#plot#After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.#
+#rated#R#
+#genre#Drama, Mystery, Thriller#
+#run-time#120 min#
+#score-imdb#8.4#
+#score-rotten#80%#
+#score-metacritic#74#
+#score-average#80#
+#link-imdb#http://www.imdb.com/title/tt0364569#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Oldboy+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Oldboy+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=2HkjrJ6IK5E#
+~~
+#post-date#20170510#
+#title#Alien#
+#year#1979#
+#director#Ridley Scott#
+#cast#Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton#
+#plot#After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.#
+#rated#R#
+#genre#Horror, Sci-Fi#
+#run-time#117 min#
+#score-imdb#8.5#
+#score-rotten#97%#
+#score-metacritic#83#
+#score-average#87#
+#link-imdb#http://www.imdb.com/title/tt0078748#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Alien+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Alien+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=GfbQu8pEd3w#
+~~
+#post-date#20170510#
+#title#Back to the Future#
+#year#1985#
+#director#Robert Zemeckis#
+#cast#Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover#
+#plot#Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.#
+#rated#PG#
+#genre#Adventure, Comedy, Sci-Fi#
+#run-time#116 min#
+#score-imdb#8.5#
+#score-rotten#96%#
+#score-metacritic#86#
+#score-average#87#
+#link-imdb#http://www.imdb.com/title/tt0088763#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Back%20to%20the%20Future+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Back%20to%20the%20Future+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=FXfQYmVzNnc#
+~~
+#post-date#20170510#
+#title#The Departed#
+#year#2006#
+#director#Martin Scorsese#
+#cast#Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg#
+#plot#An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.#
+#rated#R#
+#genre#Crime, Drama, Thriller#
+#run-time#151 min#
+#score-imdb#8.5#
+#score-rotten#91%#
+#score-metacritic#85#
+#score-average#86#
+#link-imdb#http://www.imdb.com/title/tt0407887#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Departed+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Departed+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg#
+#trailer-link#https://youtube.com/watch?v=auYbpnEwBBg#
+~~
+#post-date#20170510#
+#title#Raiders of the Lost Ark#
+#year#1981#
+#director#Steven Spielberg#
+#cast#Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey#
+#plot#Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.#
+#rated#PG#
+#genre#Action, Adventure#
+#run-time#115 min#
+#score-imdb#8.5#
+#score-rotten#94%#
+#score-metacritic#85#
+#score-average#86#
+#link-imdb#http://www.imdb.com/title/tt0082971#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Raiders%20of%20the%20Lost%20Ark+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Raiders%20of%20the%20Lost%20Ark+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=XkkzKHCx154#
+~~
+#post-date#20170510#
+#title#Casablanca#
+#year#1942#
+#director#Michael Curtiz#
+#cast#Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains#
+#plot#In Casablanca in December 1941, a cynical American expatriate encounters a former lover, with unforeseen complications.#
+#rated#PG#
+#genre#Drama, Romance, War#
+#run-time#102 min#
+#score-imdb#8.5#
+#score-rotten#97%#
+#score-metacritic#74#
+#score-average##
+#link-imdb#http://www.imdb.com/title/tt0034583#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Casablanca+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Casablanca+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=BkL9l7qovsE#
+~~
+#post-date#20170510#
+#title#Interstellar#
+#year#2014#
+#director#Christopher Nolan#
+#cast#Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow#
+#plot#A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.#
+#rated#PG-13#
+#genre#Adventure, Drama, Sci-Fi#
+#run-time#169 min#
+#score-imdb#8.6#
+#score-rotten#71%#
+#score-metacritic#74#
+#score-average#75#
+#link-imdb#http://www.imdb.com/title/tt0816692#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Interstellar+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Interstellar+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=Lm8p5rlrSkY#
+~~
+#post-date#20170510#
+#title#Léon: The Professional#
+#year#1994#
+#director#Luc Besson#
+#cast#Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello#
+#plot#Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.#
+#rated#R#
+#genre#Crime, Drama, Thriller#
+#run-time#110 min#
+#score-imdb#8.6#
+#score-rotten#71%#
+#score-metacritic#64#
+#score-average#75#
+#link-imdb#http://www.imdb.com/title/tt0110413#
+#link-rotten#https://duckduckgo.com/?q=!ducky+L%C3%A9on:%20The%20Professional+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+L%C3%A9on:%20The%20Professional+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMjdjMGU3MGYtN2Y5ZC00MTE4LWE4YWQtMTBhMjc3MTk0ZDUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=o3IsMGsgnFM#
+~~
+#post-date#20170510#
+#title#The Usual Suspects#
+#year#1995#
+#director#Bryan Singer#
+#cast#Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak#
+#plot#A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.#
+#rated#R#
+#genre#Crime, Drama, Mystery#
+#run-time#106 min#
+#score-imdb#8.6#
+#score-rotten#88%#
+#score-metacritic#77#
+#score-average#83#
+#link-imdb#http://www.imdb.com/title/tt0114814#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Usual%20Suspects+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Usual%20Suspects+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=oiXdPolca5w#
+~~
+#post-date#20170510#
+#title#The Silence of the Lambs#
+#year#1991#
+#director#Jonathan Demme#
+#cast#Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz#
+#plot#A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.#
+#rated#R#
+#genre#Crime, Drama, Thriller#
+#run-time#118 min#
+#score-imdb#8.6#
+#score-rotten#95%#
+#score-metacritic#84#
+#score-average#85#
+#link-imdb#http://www.imdb.com/title/tt0102926#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Silence%20of%20the%20Lambs+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Silence%20of%20the%20Lambs+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=sHqrhjNCmTo#
+~~
+#post-date#20170510#
+#title#The Matrix#
+#year#1999#
+#director#Lana Wachowski, Lilly Wachowski#
+#cast#Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving#
+#plot#A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.#
+#rated#R#
+#genre#Action, Sci-Fi#
+#run-time#136 min#
+#score-imdb#8.7#
+#score-rotten#87%#
+#score-metacritic#73#
+#score-average#82#
+#link-imdb#http://www.imdb.com/title/tt0133093#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Matrix+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Matrix+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=Q8g9zL-JL8E#
+~~
+#post-date#20170510#
+#title#Goodfellas#
+#year#1990#
+#director#Martin Scorsese#
+#cast#Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco#
+#plot#The story of Henry Hill and his life through the teen years into the years of mafia, covering his relationship with wife Karen Hill and his Mob partners Jimmy Conway and Tommy DeVitto in the Italian-American crime syndicate.#
+#rated#R#
+#genre#Crime, Drama#
+#run-time#146 min#
+#score-imdb#8.7#
+#score-rotten#97%#
+#score-metacritic#89#
+#score-average#88#
+#link-imdb#http://www.imdb.com/title/tt0099685#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Goodfellas+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Goodfellas+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=VRpNwUEmVCk#
+~~
+#post-date#20170510#
+#title#One Flew Over the Cuckoo's Nest#
+#year#1975#
+#director#Milos Forman#
+#cast#Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown#
+#plot#A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.#
+#rated#R#
+#genre#Drama#
+#run-time#133 min#
+#score-imdb#8.7#
+#score-rotten#95%#
+#score-metacritic#80#
+#score-average#84#
+#link-imdb#http://www.imdb.com/title/tt0073486#
+#link-rotten#https://duckduckgo.com/?q=!ducky+One%20Flew%20Over%20the%20Cuckoo's%20Nest+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+One%20Flew%20Over%20the%20Cuckoo's%20Nest+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=OXrcDonY-B8#
+~~
+#post-date#20170510#
+#title#Inception#
+#year#2010#
+#director#Christopher Nolan#
+#cast#Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy#
+#plot#A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.#
+#rated#PG-13#
+#genre#Action, Adventure, Sci-Fi#
+#run-time#148 min#
+#score-imdb#8.8#
+#score-rotten#86%#
+#score-metacritic#74#
+#score-average#80#
+#link-imdb#http://www.imdb.com/title/tt1375666#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Inception+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Inception+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=YoHD9XEInc0#
+~~
+#post-date#20170510#
+#title#Fight Club#
+#year#1999#
+#director#David Fincher#
+#cast#Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier#
+#plot#An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.#
+#rated#R#
+#genre#Drama#
+#run-time#139 min#
+#score-imdb#8.8#
+#score-rotten#79%#
+#score-metacritic#66#
+#score-average#79#
+#link-imdb#http://www.imdb.com/title/tt0137523#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Fight%20Club+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Fight%20Club+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=D3Yw9Yc1YmY#
+~~
+#post-date#20170510#
+#title#The Good, the Bad and the Ugly#
+#year#1966#
+#director#Sergio Leone#
+#cast#Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè#
+#plot#A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.#
+#rated#APPROVED#
+#genre#Western#
+#run-time#178 min#
+#score-imdb#8.9#
+#score-rotten#97%#
+#score-metacritic#90#
+#score-average#89#
+#link-imdb#http://www.imdb.com/title/tt0060196#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Good,%20the%20Bad%20and%20the%20Ugly+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Good,%20the%20Bad%20and%20the%20Ugly+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=MaquDVqd4Nw#
+~~
+#post-date#20170510#
+#title#Pulp Fiction#
+#year#1994#
+#director#Quentin Tarantino#
+#cast#Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta#
+#plot#The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.#
+#rated#R#
+#genre#Crime, Drama#
+#run-time#154 min#
+#score-imdb#8.9#
+#score-rotten#94%#
+#score-metacritic#94#
+#score-average#90#
+#link-imdb#http://www.imdb.com/title/tt0110912#
+#link-rotten#https://duckduckgo.com/?q=!ducky+Pulp%20Fiction+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+Pulp%20Fiction+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=ewlwcEBTvcg#
+~~
+#post-date#20170510#
+#title#The Dark Knight#
+#year#2008#
+#director#Christopher Nolan#
+#cast#Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine#
+#plot#When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the Dark Knight must come to terms with one of the greatest psychological tests of his ability to fight injustice.#
+#rated#PG-13#
+#genre#Action, Crime, Drama#
+#run-time#152 min#
+#score-imdb#9.0#
+#score-rotten#94%#
+#score-metacritic#82#
+#score-average#91#
+#link-imdb#http://www.imdb.com/title/tt0468569#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Dark%20Knight+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Dark%20Knight+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=EXeTwQWrcwY#
+~~
+#post-date#20170510#
+#title#The Godfather#
+#year#1972#
+#director#Francis Ford Coppola#
+#cast#Marlon Brando, Al Pacino, James Caan, Richard S. Castellano#
+#plot#The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.#
+#rated#R#
+#genre#Crime, Drama#
+#run-time#175 min#
+#score-imdb#9.2#
+#score-rotten#99%#
+#score-metacritic#100#
+#score-average#96#
+#link-imdb#http://www.imdb.com/title/tt0068646#
+#link-rotten#https://duckduckgo.com/?q=!ducky+The%20Godfather+site:+rottentomatoes.com#
+#link-metacritic#https://duckduckgo.com/?q=!ducky+The%20Godfather+site:+metacritic.com#
+#poster#https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg#
+#trailer-link#https://youtube.com/watch?v=mJLWydHPkMw#
+~~

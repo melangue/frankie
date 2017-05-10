@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">    ​
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frankie - Private Movie Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <svg id="frankie-logo" data-name="frankie-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60"><defs><style>.cls-1{fill:url(#frankie_gradient);} .cls-2{fill:#fff; filter:url(#dropshadow);}</style><filter id="dropshadow" height="130%"><feGaussianBlur in="SourceAlpha" stdDeviation="3"/><feOffset dy="2" result="offsetblur"/><feComponentTransfer><feFuncA type="linear" slope=".1"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="frankie_gradient" x1="389.88" y1="618.13" x2="389.88" y2="558.12" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff758c"/><stop offset="1" stop-color="#ff7eb3"/></linearGradient></defs><title>frankie_icon_app</title><path class="cls-1" filter="url('#drop-shadow')" d="M51.36 1.02c-3.24-1-6.25-1-12.28-1H20.92c-6 0-9 0-12.28 1a12.74 12.74 0 0 0-7.62 7.62c-1 3.24-1 6.25-1 12.28v18.16c0 6 0 9 1 12.28a12.74 12.74 0 0 0 7.62 7.62c3.24 1 6.25 1 12.28 1h18.2c6 0 9 0 12.28-1a12.74 12.74 0 0 0 7.62-7.62c1-3.24 1-6.25 1-12.28V20.87c0-6 0-9-1-12.28a12.74 12.74 0 0 0-7.66-7.57z"/><path class="cls-2" d="M12.33 25.06v22.62c0 2 1.25 3.61 2.81 3.61h30.51c1.56 0 2.81-1.6 2.81-3.61V25.06H12.33zm13 13.17a.64.64 0 0 1-.63-.63 2.12 2.12 0 1 0-4.24 0 .63.63 0 0 1-1.26 0 3.35 3.35 0 0 1 3.38-3.38 3.39 3.39 0 0 1 3.38 3.38.64.64 0 0 1-.6.63zm5 6.53a4 4 0 0 1-4-4 .63.63 0 1 1 1.26 0 2.71 2.71 0 0 0 2.75 2.75 2.75 2.75 0 0 0 2.75-2.75.63.63 0 1 1 1.26 0 4.06 4.06 0 0 1-3.95 4zm10.54-6.53a.64.64 0 0 1-.63-.63 2.12 2.12 0 1 0-4.24 0 .63.63 0 0 1-1.26 0 3.35 3.35 0 0 1 3.38-3.38 3.39 3.39 0 0 1 3.38 3.38.64.64 0 0 1-.57.63zM16.46 16.07l-5.68 1.43 1.47 5.84 2.47-.62 1.74-6.65zm29.38-7.36l-2.45.61-1.7 6.64 5.61-1.41-1.46-5.84zM40.7 10l-5.38 1.35-1.69 6.63L39 16.63 40.7 10zm-8.06 2.02l-5.42 1.36-1.7 6.63 5.42-1.35 1.7-6.64zm-8.11 2.03l-5.37 1.35-1.7 6.64 5.37-1.35 1.7-6.64z" id="frankie"/></svg>
+        <h1>FRANKIE</h1>
+        <span>Private Movie Database</span>
+    </header>
+
+    <div id="movies">
+      <div class="nav_container">
+          <div class="search_container">
+            <input type="search" class="search search_icon" placeholder="Search" />
+          </div>
+
+          <div id="sort" class="dropdown">
+            <input id="toggle1" type="checkbox">
+            <label for="toggle1" class="dropdown_icon animate"></label>
+          </input>
+            <ul class="animate">
+              <li class="sort sort_item animate" data-sort="movie-title">Title</li>
+              <li class="sort sort_item animate" data-sort="movie-year">Year</li>
+              <li class="sort sort_item animate" data-sort="movie-score-average">Score</li>
+              <li class="sort sort_item animate" data-sort="movie-date-added">Added</li>
+              <li class="sort sort_item animate" data-sort="movie-duration">Duration</li>
+            </ul>
+          </div>
+
+        </div>
+    <hr/>
+        <ul class="cards list">
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=tymWDB7gtK4" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTgyMzM0NV5BMl5BanBnXkFtZTgwNzkwNDE1MzE@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Filth</h2>
+                        <span class="movie-date-added">20170202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2013</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">97 min</span>
+                            <span class="separator">|</span>
+                            <span>Comedy, Crime, Drama</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>A corrupt, junkie cop with Borderline Personality Disorder attempts to manipulate his way through a promotion in order to win back his wife and daughter while also fighting his own borderline-fueled inner demons.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt1450321"><span class="imdb_logo">7.1</span></a>
+                            <a href="http://rottentomatoes.com/m/filth_2013"><span class="rotten_logo">64%</span>
+                          </a>
+                            <a href="http://metacritic.com/movie/the-filth-and-the-fury">
+                                <span class="meta_logo">56</span>
+                            </a>
+                            <span class="movie-score-average">30</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=jj-ZYPVRQbc" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Fences</h2>
+                        <span class="movie-date-added">20160302</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2016</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">139 min</span>
+                            <span class="separator">|</span>
+                            <span>Drama</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt2671706"><span class="imdb_logo">7.3</span></a>
+                            <a href="http://rottentomatoes.com/m/fences_2016"><span class="rotten_logo">93%</span>
+                          </a>
+                            <a href="http://metacritic.com">
+                                <span class="meta_logo">79</span>
+                            </a>
+                            <span class="movie-score-average">50</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=9mQYxib26FM" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNjU0ODU5Ml5BMl5BanBnXkFtZTcwNjI4MzAyOA@@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">End of Watch</h2>
+                        <span class="movie-date-added">20150202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2012</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">109 min</span>
+                            <span class="separator">|</span>
+                            <span>Crime, Drama, Thriller</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends, and what happens when they meet criminal forces greater than themselves.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt1855199"><span class="imdb_logo">7.7</span></a>
+                            <a href="http://rottentomatoes.com/m/end_of_watch"><span class="rotten_logo">85%</span>
+                          </a>
+                            <a href="http://metacritic.com/movie/end-of-watch">
+                                <span class="meta_logo">68</span>
+                            </a>
+                            <span class="movie-score-average">80</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=ZZyBaFYFySk" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BZWQyN2ZkODktMTBkNS00OTBjLWJhOGYtNGU4YWVkNTY0ZDZkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Donnie Darko</h2>
+                        <span class="movie-date-added">20140202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2001</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">113 min</span>
+                            <span class="separator">|</span>
+                            <span>Drama, Sci-Fi, Thriller</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt0246578"><span class="imdb_logo">8.1</span></a>
+                            <a href="http://rottentomatoes.com/m/donnie_darko"><span class="rotten_logo">86%</span>
+                          </a>
+                            <a href="http://metacritic.com/movie/donnie-darko">
+                                <span class="meta_logo">88</span>
+                            </a>
+                            <span class="movie-score-average">100</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=8iCwtxJejik" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Crazy, Stupid, Love.</h2>
+                        <span class="movie-date-added">20130202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2011</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">118 min</span>
+                            <span class="separator">|</span>
+                            <span>Comedy, Drama, Romance</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt1570728"><span class="imdb_logo">7.4</span></a>
+                            <a href="http://rottentomatoes.com/m/null"><span class="rotten_logo">78%</span>
+                          </a>
+                            <a href="http://metacritic.com/movie/crazy-stupid-love">
+                                <span class="meta_logo">68</span>
+                            </a>
+                            <span class="movie-score-average">10</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=TWO5jH2tWpA" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Anomalisa</h2>
+                        <span class="movie-date-added">20120202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2015</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">90 min</span>
+                            <span class="separator">|</span>
+                            <span>Animation, Comedy, Drama</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>A man crippled by the mundanity of his life experiences something out of the ordinary.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt2401878"><span class="imdb_logo">7.3</span></a>
+                            <a href="http://rottentomatoes.com/m/anomalisa"><span class="rotten_logo">93%</span>
+                          </a>
+                            <a href="http://metacritic.com">
+                                <span class="meta_logo">88</span>
+                            </a>
+                            <span class="movie-score-average">50</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="cards_item">
+                <div class="card">
+                    <a href="https://youtube.com/watch?v=anvGUW-vsLE" class="card_image_container">
+                        <div class="card_trailer_overlay youtube_logo"></div>
+                        <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_SX800.jpg" />
+                    </a>
+                    <div class="card_content">
+                        <h2 class="movie-title">Alice Through the Looking Glass</h2>
+                        <span class="movie-date-added">20110202</span>
+                        <div class="card_meta_container">
+                            <span class="movie-year">2016</span>
+                            <span class="separator">|</span>
+                            <span class="movie-duration">113 min</span>
+                            <span class="separator">|</span>
+                            <span>Adventure, Family, Fantasy</span>
+                        </div>
+                        <div class="card_plot_container">
+                            <p>Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.</p>
+                        </div>
+                        <div class="card_rating_container">
+                            <a href="http://www.imdb.com/title/tt2567026"><span class="imdb_logo">6.2</span></a>
+                            <a href="http://rottentomatoes.com/m/alice-through-the-looking-glass"><span class="rotten_logo">30%</span>
+                          </a>
+                            <a href="http://metacritic.com/movie/alice-in-wonderland-2">
+                                <span class="meta_logo">34</span>
+                            </a>
+                            <span class="movie-score-average">90</span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+
+    </div>
+    <hr class="footer"/>
+    <footer>
+
+        <span>Last update: 6 Movies
+    <span class="separator">|</span> 28/04/2017 11:55</span>
+        <span>Generated by <a href="https://itunes.apple.com/app/workflow-powerful-automation/id915249334">Workflow</a></span>
+    </footer>
+
+    <script type="text/javascript" src="list.min.js"></script>
+    <script type="text/javascript">
+        var options = {
+            valueNames: ['movie-title', 'movie-year', 'movie-score-average', 'movie-date-added', 'movie-duration']
+        };
+
+        var userList = new List('movies', options);
+    </script>
+
+</body>
+
+</html>
