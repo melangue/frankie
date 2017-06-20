@@ -5,7 +5,7 @@
 
 Frankie is a set of workflows for Workflow.app to create, maintain and display a webapp with your private movie database right on your iOS device.
 
-[Live version](https://cdn.rawgit.com/melangue/Frankie/649d50e8/demo/frankie.html)
+[Live version](https://cdn.rawgit.com/melangue/frankie/d752cebc/demo/frankie.html)
 
 ## Features
 * 'Written' fully in [Workflow.app](https://itunes.apple.com/app/workflow-powerful-automation/id915249334)
